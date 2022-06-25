@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
+<<<<<<< HEAD
 This project was bootstrapped with [Live Link](https://food-delivery-73cb0.firebaseapp.com/).
+=======
+This project was bootstrapped with [Live Link](food-delivery-73cb0.firebaseapp.com).
+>>>>>>> 19619577499066ba8dd8a8892365ba6ea87cf2cb
 
 ## Available Scripts
 
